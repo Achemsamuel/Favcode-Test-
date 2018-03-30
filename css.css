@@ -1,0 +1,103 @@
+
+.carousel-inner {
+    text-align: center;
+}
+.carousel .item > img {
+    display: inline-block;
+}
+
+figure > figcaption { 
+    font-size: 0.7em;
+    font-style: italic;
+}
+
+img {
+    height="42px";
+    width = "70px";
+}
+
+body {
+background-color:white;
+padding: 5px 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body > h1 {
+    background-color: rgb(0, 0, 0);
+    padding: 20px 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-weight: lighter bold;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+
+h1 {
+    font-family: sans-serif, Arial, Helvetica;
+    font-style: normal, bold;
+    margin: 10px 50px;
+}
+.carousel-inner {
+    text-align: center;
+}
+.carousel .item > img {
+    display: inline-block;
+}
+article {
+    float: center;
+    line-height: 2;
+    text-align: center;
+    margin: 5px 0px;
+    padding: 5px 5px;
+    box-shadow: -1px -1px 9px #888888;
+}
+header {
+    text-align: right;
+    color:white;
+    padding:10px;
+    background-color: ;
+}
+footer {
+    text-align: right;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:80%;
+   height:50px;
+}
+.mee {
+    background-color: #454545;
+    padding:10px;
+    color:white;
+}
+#contact {
+color:white;
+}
+
+#want {
+    font-style: italic;
+    text-align: center;
+    margin: 5px 0px;
+    float: center;
+    padding: 5px 5px;
+    box-shadow: -1px -1px 5px #888888;
+  
+}
+#mycon {
+    display: inline-block;
+}
+
+#mission {
+    line-height: 2;
+    display: inline-block;
+    text-align: center;
+}
+
+#favcode54 {
+    position: relative;
+    float: right;
+    top: 0px;
+    right: 0px;
+    width: 150px;
+}
