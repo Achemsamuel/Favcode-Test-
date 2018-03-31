@@ -73,7 +73,7 @@
                 <summary class="text-left">
                 </br>
                 </br>
-                <div class="panel-heading">Contact Me</div>
+                <div class="panel-heading" id="footer">Contact Me</div>
                     <form class="form-horizontal">
                         <ul role="navigation">
                             <li>
