@@ -68,7 +68,7 @@
                 </div>
         </section> 
     </br>
-        <div id="empty"></div></br>
+       
         <footer id="footer" class=""> </br>
                 <summary class="text-left">
                 </br>
