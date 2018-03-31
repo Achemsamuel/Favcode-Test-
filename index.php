@@ -18,7 +18,7 @@
     <link href="css.css" rel="stylesheet">
     <link rel="stylesheet" href="./Felix - FavCode Test_files/stylesheet.css">
     <link rel="stylesheet" href="./Felix - FavCode Test_files/style.css">
-    <link rel="icon" href="https://github.com/Achemsamuel/Favcode-Test-/blob/master/favicon.ico" type="icon">
+    <link rel="icon" href="favicon.ico" type="icon">
 
 </head>
 <body cz-shortcut-listen="true">
