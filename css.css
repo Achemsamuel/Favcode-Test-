@@ -61,11 +61,11 @@ footer {
     text-align: right;
 }
 #footer {
-   position:absolute;
+   position:relative;
    bottom:0;
    width:80%;
    display: inline-block;
-   height:60px;
+   height:50px;
 }
 .mee {
     background-color: #454545;
@@ -104,5 +104,5 @@ color:white;
 }
 
 .well-down {
-    padding-top: 200px;
+    padding-top: 120px;
 }
