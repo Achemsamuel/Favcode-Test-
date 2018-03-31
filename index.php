@@ -73,8 +73,9 @@
                 <summary class="text-left">
                 </br>
                 </br>
-                <div class="panel-heading" id="footer">Contact Me</div>
-                    <form class="form-horizontal">
+                <section class="well-down">
+                    <div class="panel-heading">Contact Me</div>
+                    <form class="form-horizontal" id="">
                         <ul role="navigation">
                             <li>
                                 <a href="https://www.linkedin.com/in/achemsamuel">LinkedIn</a>
@@ -85,9 +86,10 @@
                             <li>
                                 <a href="https://web.facebook.com/achimede">Facebook</a>
                             </li>
-                        
+                    
                         </ul>
                     </form>
+                </section>
                 </summary>
                 <p class="text-right"> <div id="time">March 30, 2018.</div> Submission for Felix - Favcode Partnership</p>
                 <p class="text-right">Made by
