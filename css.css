@@ -64,7 +64,8 @@ footer {
    position:absolute;
    bottom:0;
    width:80%;
-   height:50px;
+   display: inline-block;
+   height:60px;
 }
 .mee {
     background-color: #454545;
